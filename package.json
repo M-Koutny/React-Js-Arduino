@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "@wokwi/elements": "0.15.0",
+    "avr8js": "0.8.5",
+    "intel-hex": "^0.2.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
